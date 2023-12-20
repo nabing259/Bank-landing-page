@@ -313,6 +313,7 @@ footer .invite{
     .blog .section-title{
         margin-bottom: 50px;
     }
+    
     .article-card-group{
         grid-template-columns: repeat(2, 1fr);
     }
